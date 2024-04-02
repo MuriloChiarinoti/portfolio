@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwPQzzEwP+YhmeBc4p+L9cPYuGDbj4HsTzkUT/0DUtkNqMTTqP6h1jIsGdD50D8qJTH4haabHepaaT5ZBP6E+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muril\\Desktop\\Facul\\5º semestre\\Portfolio2_Murilo_Henrique\\Portfolio2_Murilo_Henrique\\Portfolio2_Murilo_Henrique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muril\\.nuget\\packages\\libvlcsharp\\3.7.0\\libvlcsharp.3.7.0.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\libvlcsharp.forms\\3.7.0\\libvlcsharp.forms.3.7.0.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\libvlcsharp.winforms\\3.7.0\\libvlcsharp.winforms.3.7.0.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\videolan.libvlc.windows\\3.0.18\\videolan.libvlc.windows.3.0.18.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\vlc.dotnet.forms\\3.1.0\\vlc.dotnet.forms.3.1.0.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\xamarin.forms\\3.2.0.871581\\xamarin.forms.3.2.0.871581.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\muril\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
